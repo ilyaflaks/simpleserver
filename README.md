@@ -42,3 +42,6 @@ npm install
 ls
 npm start
 To see the app, open your browser and enter the IP of your instance and append i.e. 3000, e.g. http://3.238.157.100:3000
+
+https://github.com/yeshwanthlm/nodejs-on-ec2
+also a good list
